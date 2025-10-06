@@ -15,17 +15,17 @@ indexpage:
     links:
     - title: Visualizza i tuoi sistemi E-Series
       url: "/task-view-e-series.html"
-    - title: Rimuovere un sistema dalla console NetApp
+    - title: Rimuovere un sistema dalla NetApp Console
       url: "/task-remove-e-series.html"
   - title: Link correlati
     links:
-    - title: Documentazione E-Series per la gestione al di fuori della console NetApp
+    - title: Documentazione E-Series per la gestione al di fuori della NetApp Console
       url: https://docs.netapp.com/us-en/e-series-family/
   - title: Blog e comunità
     links:
-    - title: Console NetApp
+    - title: NetApp Console
       url: https://www.netapp.com/console
-    - title: Servizi dati NetApp
+    - title: NetApp Data Services
       url: https://www.netapp.com/data-services/
     - title: Comunità NetApp
       url: https://community.netapp.com/

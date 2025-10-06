@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-remove-e-series.html 
 keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment, remove system 
-summary: Rimuovere un sistema E-Series dalla console NetApp se non si desidera più gestirlo dalla console. 
+summary: Rimuovere un sistema E-Series dalla NetApp Console se non si desidera più gestirlo dalla console. 
 ---
-= Rimuovere una E-Series dalla console NetApp
+= Rimuovere una E-Series dalla NetApp Console
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,10 +14,10 @@ summary: Rimuovere un sistema E-Series dalla console NetApp se non si desidera p
 
 
 [role="lead"]
-Rimuovere un sistema E-Series se non si desidera più gestirlo dalla console NetApp .
+Rimuovere un sistema E-Series se non si desidera più gestirlo dalla NetApp Console.
 
-.Ruolo richiesto della console NetApp
-Amministratore dell'organizzazione, amministratore di cartelle o progetti oppure amministratore di archiviazione. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+.Ruolo richiesto NetApp Console
+Amministratore dell'organizzazione, amministratore di cartelle o progetti oppure amministratore di archiviazione. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
 
 La rimozione del sistema NetApp Console non influisce sul sistema E-Series.  Puoi riscoprirlo in qualsiasi momento.
 

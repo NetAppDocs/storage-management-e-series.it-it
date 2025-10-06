@@ -16,7 +16,7 @@ summary: Dopo aver individuato i sistemi E-Series, è possibile visualizzare i d
 [role="lead"]
 Dopo aver individuato i sistemi E-Series, è possibile visualizzare i dettagli sulla distribuzione della capacità, sui volumi e sugli host.
 
-.Ruolo richiesto della console NetApp
+.Ruolo richiesto NetApp Console
 Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console."^]
 
 .Passi

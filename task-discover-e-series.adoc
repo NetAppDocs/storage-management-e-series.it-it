@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: La console NetApp è in grado di rilevare i sistemi E-Series nel tuo ambiente on-premise.  Aggiungendo i sistemi E-Series alla Console puoi ottenere una visione completa dei dati nel tuo ambiente multi-cloud ibrido. 
+summary: La NetApp Console è in grado di rilevare i sistemi E-Series nel tuo ambiente on-premise.  Aggiungendo i sistemi E-Series alla Console puoi ottenere una visione completa dei dati nel tuo ambiente multi-cloud ibrido. 
 ---
 = Scopri i sistemi della serie E
 :hardbreaks:
@@ -14,10 +14,10 @@ summary: La console NetApp è in grado di rilevare i sistemi E-Series nel tuo am
 
 
 [role="lead"]
-Aggiungendo i sistemi E-Series alla console NetApp puoi gestire i tuoi sistemi E-Series dalla console e ottenere una visione completa della tua infrastruttura dati nell'ambiente multi-cloud ibrido.
+Aggiungendo i sistemi E-Series alla NetApp Console puoi gestire i tuoi sistemi E-Series dalla console e ottenere una visione completa della tua infrastruttura dati nell'ambiente multi-cloud ibrido.
 
-.Ruolo richiesto della console NetApp
-Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+.Ruolo richiesto NetApp Console
+Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
 
 .Prima di iniziare
 Ti occorre quanto segue:
