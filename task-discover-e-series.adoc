@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: La console NetApp è in grado di rilevare i sistemi E-Series nel tuo ambiente on-premise.  Aggiungendo i sistemi E-Series alla Console puoi ottenere una visione completa dei dati nel tuo ambiente multi-cloud ibrido. 
+---
+= Scopri i sistemi della serie E
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Aggiungendo i sistemi E-Series alla console NetApp puoi gestire i tuoi sistemi E-Series dalla console e ottenere una visione completa della tua infrastruttura dati nell'ambiente multi-cloud ibrido.
+
+.Ruolo richiesto della console NetApp
+Amministratore dell'organizzazione, amministratore di cartelle o progetti, amministratore di archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+
+.Prima di iniziare
+Ti occorre quanto segue:
+
+* Un NetApp Console Agent installato presso un provider cloud o presso la tua sede, con connettività di rete al sistema E-Series. Per installare un agente Console è necessario disporre del ruolo di amministratore dell'organizzazione.  Se non sai se la tua organizzazione dispone di un agente Console o se hai bisogno di crearne uno, contatta l'amministratore della Console. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Contatta l'amministratore della tua organizzazione."^]
+* Nome di dominio o indirizzo IP del controller del sistema di archiviazione.
+* Credenziali di amministratore per il sistema E-Series.
+
+
+.Passi
+. Dal menu di navigazione, seleziona *Archiviazione > Gestione*.
+. Dalla pagina *Sistemi*, seleziona *Aggiungi* e seleziona *In sede*.
+. Accanto a *E-Series*, seleziona *Scopri*.
+. Nella pagina _Dettagli cluster serie E_, immettere il nome di dominio o l'indirizzo IP del controller del sistema di archiviazione, le credenziali di amministratore per il sistema, quindi selezionare *Aggiungi*.
+
